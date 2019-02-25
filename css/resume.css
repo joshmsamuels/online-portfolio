@@ -190,3 +190,12 @@ a {
 a:hover, a:focus, a:active {
   color: #4682b4;
 }
+
+.overlay {
+  justify-content: center;
+  z-index: 2;
+  border-radius: 4px;
+  background-color: #ffffff;
+  opacity: 0.9;
+  text-align: center;
+}
