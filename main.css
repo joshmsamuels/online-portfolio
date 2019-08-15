@@ -1,0 +1,12 @@
+.page {
+    background-image: url("assets/about-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
+    background: rgba(204, 204, 204, 0.7);
+    text-align: center;
+    margin: 5em;
+}
